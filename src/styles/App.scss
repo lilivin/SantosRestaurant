@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+html {
+    font-family: 'open sans', sans-serif;
+    font-size: 20px;
+    background-color: bisque;
+}  
+
+div.app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0 auto;
+    color: #222;
+}
+  
+main {
+    display: flex;
+    flex-grow: 1;
+}
+  
+.page {
+    margin-left: 20vw;
+    width: 80vw;
+}
+
+@media(max-width: 1000px) {
+    .page {
+      margin: 0;
+      width: 100vw;
+    }
+}

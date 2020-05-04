@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+.main {
+  margin-bottom: 5vh;
+}
+
+.headerMenu {
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+  font-size: 64px;
+  margin: 2vh 0;
+}
+
+.partHeader {
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+  font-size: 42px;
+}
+
+.mainMenu {
+  width: 100%;
+  font-family: 'Pacifico', cursive;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.dish {
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: center;
+  width: 50%;
+}
+
+.dish .details {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-top: 4vh;
+  margin-bottom: 1vh;
+  padding: 0 10%;
+}
+
+.dish .description {
+  font-weight: 300;
+  padding: 0 10%;
+}
+
+@media (max-width: 650px) {
+  .mainMenu {
+    display: block;
+  }
+  .dish {
+    width: 100%;
+  }
+}
+/*# sourceMappingURL=menu.css.map */
