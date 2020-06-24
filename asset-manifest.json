@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SantosRestaurant/static/css/main.6e7a4309.chunk.css",
+    "main.css": "/SantosRestaurant/static/css/main.323f7609.chunk.css",
     "main.js": "/SantosRestaurant/static/js/main.b74039fd.chunk.js",
     "main.js.map": "/SantosRestaurant/static/js/main.b74039fd.chunk.js.map",
     "runtime-main.js": "/SantosRestaurant/static/js/runtime-main.6231960b.js",
@@ -8,9 +8,9 @@
     "static/js/2.63d6bee4.chunk.js": "/SantosRestaurant/static/js/2.63d6bee4.chunk.js",
     "static/js/2.63d6bee4.chunk.js.map": "/SantosRestaurant/static/js/2.63d6bee4.chunk.js.map",
     "index.html": "/SantosRestaurant/index.html",
-    "precache-manifest.6d54bc7c92a14ef1dcb44f4ed394936e.js": "/SantosRestaurant/precache-manifest.6d54bc7c92a14ef1dcb44f4ed394936e.js",
+    "precache-manifest.0dcebfe243d1188e64cbc94b4a7818cd.js": "/SantosRestaurant/precache-manifest.0dcebfe243d1188e64cbc94b4a7818cd.js",
     "service-worker.js": "/SantosRestaurant/service-worker.js",
-    "static/css/main.6e7a4309.chunk.css.map": "/SantosRestaurant/static/css/main.6e7a4309.chunk.css.map",
+    "static/css/main.323f7609.chunk.css.map": "/SantosRestaurant/static/css/main.323f7609.chunk.css.map",
     "static/js/2.63d6bee4.chunk.js.LICENSE.txt": "/SantosRestaurant/static/js/2.63d6bee4.chunk.js.LICENSE.txt",
     "static/media/outBar.jpg": "/SantosRestaurant/static/media/outBar.dcdfe0b6.jpg",
     "static/media/outSide.jpg": "/SantosRestaurant/static/media/outSide.f7967a5d.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.6231960b.js",
     "static/js/2.63d6bee4.chunk.js",
-    "static/css/main.6e7a4309.chunk.css",
+    "static/css/main.323f7609.chunk.css",
     "static/js/main.b74039fd.chunk.js"
   ]
 }
