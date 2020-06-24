@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/SantosRestaurant/static/css/main.323f7609.chunk.css",
-    "main.js": "/SantosRestaurant/static/js/main.b74039fd.chunk.js",
-    "main.js.map": "/SantosRestaurant/static/js/main.b74039fd.chunk.js.map",
+    "main.css": "/SantosRestaurant/static/css/main.31caf42a.chunk.css",
+    "main.js": "/SantosRestaurant/static/js/main.b9636ad6.chunk.js",
+    "main.js.map": "/SantosRestaurant/static/js/main.b9636ad6.chunk.js.map",
     "runtime-main.js": "/SantosRestaurant/static/js/runtime-main.6231960b.js",
     "runtime-main.js.map": "/SantosRestaurant/static/js/runtime-main.6231960b.js.map",
-    "static/js/2.63d6bee4.chunk.js": "/SantosRestaurant/static/js/2.63d6bee4.chunk.js",
-    "static/js/2.63d6bee4.chunk.js.map": "/SantosRestaurant/static/js/2.63d6bee4.chunk.js.map",
+    "static/js/2.d47ed33c.chunk.js": "/SantosRestaurant/static/js/2.d47ed33c.chunk.js",
+    "static/js/2.d47ed33c.chunk.js.map": "/SantosRestaurant/static/js/2.d47ed33c.chunk.js.map",
     "index.html": "/SantosRestaurant/index.html",
-    "precache-manifest.0dcebfe243d1188e64cbc94b4a7818cd.js": "/SantosRestaurant/precache-manifest.0dcebfe243d1188e64cbc94b4a7818cd.js",
+    "precache-manifest.d7f15847d50adcc564e47ab89a40fbf8.js": "/SantosRestaurant/precache-manifest.d7f15847d50adcc564e47ab89a40fbf8.js",
     "service-worker.js": "/SantosRestaurant/service-worker.js",
-    "static/css/main.323f7609.chunk.css.map": "/SantosRestaurant/static/css/main.323f7609.chunk.css.map",
-    "static/js/2.63d6bee4.chunk.js.LICENSE.txt": "/SantosRestaurant/static/js/2.63d6bee4.chunk.js.LICENSE.txt",
+    "static/css/main.31caf42a.chunk.css.map": "/SantosRestaurant/static/css/main.31caf42a.chunk.css.map",
+    "static/js/2.d47ed33c.chunk.js.LICENSE.txt": "/SantosRestaurant/static/js/2.d47ed33c.chunk.js.LICENSE.txt",
     "static/media/outBar.jpg": "/SantosRestaurant/static/media/outBar.dcdfe0b6.jpg",
     "static/media/outSide.jpg": "/SantosRestaurant/static/media/outSide.f7967a5d.jpg",
     "static/media/restaurant.jpg": "/SantosRestaurant/static/media/restaurant.e3965358.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6231960b.js",
-    "static/js/2.63d6bee4.chunk.js",
-    "static/css/main.323f7609.chunk.css",
-    "static/js/main.b74039fd.chunk.js"
+    "static/js/2.d47ed33c.chunk.js",
+    "static/css/main.31caf42a.chunk.css",
+    "static/js/main.b9636ad6.chunk.js"
   ]
 }

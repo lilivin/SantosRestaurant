@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c7616ce880dda945527822a0bd595449",
+    "revision": "545eb1736c426a97ee0f526e3b16d1f0",
     "url": "/SantosRestaurant/index.html"
   },
   {
-    "revision": "3eead7b4531c8dcebde6",
-    "url": "/SantosRestaurant/static/css/main.323f7609.chunk.css"
+    "revision": "43fe1022afb8598f2486",
+    "url": "/SantosRestaurant/static/css/main.31caf42a.chunk.css"
   },
   {
-    "revision": "f51176ac89cbfc8c6a0f",
-    "url": "/SantosRestaurant/static/js/2.63d6bee4.chunk.js"
+    "revision": "848f14e08afb44835d49",
+    "url": "/SantosRestaurant/static/js/2.d47ed33c.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/SantosRestaurant/static/js/2.63d6bee4.chunk.js.LICENSE.txt"
+    "url": "/SantosRestaurant/static/js/2.d47ed33c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3eead7b4531c8dcebde6",
-    "url": "/SantosRestaurant/static/js/main.b74039fd.chunk.js"
+    "revision": "43fe1022afb8598f2486",
+    "url": "/SantosRestaurant/static/js/main.b9636ad6.chunk.js"
   },
   {
     "revision": "dea2b5d59f3d9cacb76e",
