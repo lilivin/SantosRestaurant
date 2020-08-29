@@ -1,4 +1,4 @@
-# ExtraLessons
+# Santos Restaurant
 
 Strona internetowa restauracji zawierając podstrony z menu, galerią czy kontaktem.
 
